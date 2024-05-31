@@ -1,0 +1,18 @@
+{
+    "name": "heaps-svg-lite",
+    "url" : "https://github.com/cardgdev/heaps-svg-lite",
+    "description": "SVG renderer for Heaps.io",
+    "license": "MIT",
+    "tags": [
+      "heaps", "svg"
+    ],
+    "classPath": "src/",
+    "contributors": [
+      "cgdev"
+    ],
+    "releasenote": "Initial release",
+    "version": "0.0.1",
+    "dependencies": {
+      "heaps": ""
+    }
+  }
