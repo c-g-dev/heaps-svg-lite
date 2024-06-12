@@ -2,6 +2,10 @@
 
 A basic SVG renderer for Heaps. Only for drawing vector paths -- does not implement all of the advanced features of the SVG format, of which they are many. 
 
+```
+haxelib install heaps-svg-lite
+```
+
 As a benchmark of the scope of the renderer, here it is drawing all of the feathericon.com open source icons:
 
 https://cardgdev.github.io/heaps-svg-lite/bin/
